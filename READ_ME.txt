@@ -1,5 +1,7 @@
 Steps:
 
+###dternyak change
+
 1) Run the "python-2.7.6.msi" installer with "C:\Python27" as the install destination.
 
 2) Open Control Panel> System and Maintenance> System> Advanced System Setting and 
